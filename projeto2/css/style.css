@@ -1,0 +1,22 @@
+
+body{
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;   
+}/* Fechando body */
+
+/* Criando uma classe exemplo */
+.titulo{
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aqua;
+}
+.sexta{
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blueviolet;
+}
+.madrugada{
+    text-align: center;
+}
